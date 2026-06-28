@@ -1,2 +1,3 @@
 # PROJECTS
-This repository contains my mini projects developed during my learning journey. The projects are built using C, Python, Microsoft Excel, and R, focusing on programming fundamentals, data analysis, and practical problem-solving.
+A simple C project that creates text-based animations using ASCII characters. The project uses loops, delays, and ASCII values to display moving vehicles in the console, demonstrating basic animation and programming concepts.
+
